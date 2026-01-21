@@ -143,7 +143,7 @@ const BuyPayId = ({
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
                 <div className="flex items-center space-x-2">
                   <span className="text-blue-600 font-medium text-sm">Email:</span>
-                  <span className="text-blue-800 text-sm">managementcompany925@gmail.com</span>
+                  <span className="text-blue-800 text-sm">Paygocash@gmail.com</span>
                 </div>
               </div>
 
@@ -167,8 +167,8 @@ const BuyPayId = ({
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Number</span>
                   <div className="flex items-center space-x-3">
-                    <span className="text-xl font-bold text-gray-900">8907058874</span>
-                    <Button onClick={() => handleCopy('8907058874')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
+                    <span className="text-xl font-bold text-gray-900">8068924657</span>
+                    <Button onClick={() => handleCopy('8068924657')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
                       Copy
                     </Button>
                   </div>
@@ -176,7 +176,7 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Name</span>
-                  <span className="text-xl font-bold text-gray-900">Bright isreal epererbuikem</span>
+                  <span className="text-xl font-bold text-gray-900">Benjamin selchang dashe</span>
                 </div>
               </div>
 
