@@ -136,14 +136,14 @@ const BuyPayId = ({
             <div className="p-6 space-y-6">
               <div className="text-center bg-amber-400">
                 <h2 className="text-xl font-semibold text-gray-800 mb-2">Complete Payment</h2>
-                <p className="text-gray-600 text-sm">Transfer ₦7,200 to the account below</p>
+                <p className="text-gray-600 text-sm">Transfer ₦7,250 to the account below</p>
               </div>
 
               {/* Email Section */}
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
                 <div className="flex items-center space-x-2">
                   <span className="text-blue-600 font-medium text-sm">Email:</span>
-                  <span className="text-blue-800 text-sm">Paygocash@gmail.com</span>
+                  <span className="text-blue-800 text-sm">Paygocompany67@gmail.com</span>
                 </div>
               </div>
 
@@ -161,14 +161,14 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Bank Name</span>
-                  <span className="text-xl font-bold text-gray-900">MOMO PSB</span>
+                  <span className="text-xl font-bold text-gray-900">MONIEPOINT MFB</span>
                 </div>
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Number</span>
                   <div className="flex items-center space-x-3">
-                    <span className="text-xl font-bold text-gray-900">8109117136</span>
-                    <Button onClick={() => handleCopy('8109117136')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
+                    <span className="text-xl font-bold text-gray-900">5307177263</span>
+                    <Button onClick={() => handleCopy('5307177263')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
                       Copy
                     </Button>
                   </div>
@@ -176,7 +176,7 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Name</span>
-                  <span className="text-xl font-bold text-gray-900">NANVANG ISAIAH</span>
+                  <span className="text-xl font-bold text-gray-900">Stephen Andrew Friday</span>
                 </div>
               </div>
 
